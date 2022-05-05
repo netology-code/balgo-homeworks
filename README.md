@@ -6,6 +6,6 @@
 
 Любые вопросы по решению задач задавайте в канале группы.
 
-1. [Работа с системами счисления](https://github.com/netology-code/balgo-homeworks/blob/main/1.md)
+1. [Работа с системами счисления](https://github.com/netology-code/balgo-homeworks/blob/main/1/1.md)
 2. [Использование логических операций](https://github.com/netology-code/balgo-homeworks/blob/main/2.md)
 3. [Построение алгоритмов](https://github.com/netology-code/balgo-homeworks/blob/main/3.md)
